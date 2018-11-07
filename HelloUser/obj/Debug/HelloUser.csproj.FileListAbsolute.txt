@@ -1,0 +1,7 @@
+C:\Users\Swain's\Desktop\SoloProj\HelloUser\HelloUser\bin\Debug\HelloUser.exe.config
+C:\Users\Swain's\Desktop\SoloProj\HelloUser\HelloUser\bin\Debug\HelloUser.exe
+C:\Users\Swain's\Desktop\SoloProj\HelloUser\HelloUser\bin\Debug\HelloUser.pdb
+C:\Users\Swain's\Desktop\SoloProj\HelloUser\HelloUser\obj\Debug\HelloUser.csprojAssemblyReference.cache
+C:\Users\Swain's\Desktop\SoloProj\HelloUser\HelloUser\obj\Debug\HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Swain's\Desktop\SoloProj\HelloUser\HelloUser\obj\Debug\HelloUser.exe
+C:\Users\Swain's\Desktop\SoloProj\HelloUser\HelloUser\obj\Debug\HelloUser.pdb
